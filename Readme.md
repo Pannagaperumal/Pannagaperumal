@@ -24,7 +24,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-     <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.icons8.com/material-two-tone/24/000000/django.png"/>
+     <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-light-tal-revivo.png"/>
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a> 
 
 </p>
