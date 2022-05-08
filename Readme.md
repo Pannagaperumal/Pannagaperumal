@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **pannagaperumal@gmail.com**
+- 📫 How to reach me **pannagaperumal404@gmail.com**
 
 - ⚡ Fun fact **I play games and doodle cartoons.**
 
