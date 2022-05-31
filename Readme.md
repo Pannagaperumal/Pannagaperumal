@@ -9,10 +9,9 @@
 
 - 🔭 I’m currently working on **Image Recognition**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I blog on **Dev.io**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
 
 - 📫 How to reach me **pannagaperumal404@gmail.com**
 
