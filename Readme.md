@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Image Recognition**
 
-- 🌱 I blog on **https://dev.to/pannagaperumal/are-we-living-inside-our-mobiles-29nk**
+- 🌱 I blog on **https://dev.to/pannagaperumal**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
