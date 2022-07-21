@@ -56,7 +56,7 @@
 
 <a href = "https://www.linkedin.com/in/ps-pannaga/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/pannagaperumal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://dev.to/pannagaperumal/are-we-living-inside-our-mobiles-29nk"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAABHUlEQVRYhe2WPW4CMRCFPwJKFXrELahJDkDKHApyjhyDEgFFUDgBFT8XoENCcoqMxbB47E0CuPGTRp59M+t5O/7RQkFBQWY0lO9y1H64c9ELtAJcI8BdE2edzt6BmACnbAe8A48q/gpsVA5AT/yVylsJ10uJ0RNVBXgbqfimEgNoAnt57og54ZpGnaQAgGdOnbDyPcbCv4k54YLv1d0DUxm7NXLnMvb5EQ4ws5JDp+C38F/jT48X2w9wyYmsJYg9V/k2cAQOYkfhrHn+LSCEpYp/xerU3QMvMu6iWSfoNZ+bWTUFOGAi/ofitype7cTM8JOFrDXeAkPOL6IBsDYEPAEL4FP8WJ104Mr40x64GUL3wF3/C7J3oKCgIDu+AbtLbFadp6bNAAAAAElFTkSuQmCC">
+<a href = "https://dev.to/pannagaperumal/are-we-living-inside-our-mobiles-29nk"><img src="https://img.icons8.com/windows/32/000000/dev.png"/>
 
 </a>
 
