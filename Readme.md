@@ -45,8 +45,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Pannagaperumal/github-readme-activity-graph"><img alt="Panaga Perumal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pannagaperumal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
