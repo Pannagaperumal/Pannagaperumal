@@ -48,6 +48,10 @@
 <br/>
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pannagaperumal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 ## Connect with me:
 <p align="left">
 
