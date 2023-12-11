@@ -22,6 +22,10 @@
      <a style="padding-right:8px;" href="https://www.djangoproject.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png"/>
     <a style="padding-right:8px;" href="https://www.tensorflow.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a> 
 <a style="padding-right:8px;" href="https://www.figma.org" target="_blank"><img src="https://img.icons8.com/plasticine/50/000000/figma.png"/>
+    <a style="padding-right:8px;" href="https://nodejs.org/en" target="_blank"><img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/>
+    <a style="padding-right:8px;" href="https://www.figma.org" target="_blank"><img src="https://icons8.com/icon/8rKdRqZFLurS/mongodb-a-cross-platform-document-oriented-database-program"/>
+
+
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
