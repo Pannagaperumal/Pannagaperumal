@@ -29,16 +29,6 @@
 </p>
 
 
-## ⚡ Featured Work
-
-<p align="center">
-  <a href="https://github.com/Pannagaperumal/pebble">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pannagaperumal&repo=pebble&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Pannagaperumal/Dapp-Ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pannagaperumal&repo=Dapp-Ecommerce&theme=tokyonight"/>
-  </a>
-</p>
 
 ## 📊 Developer Metrics
 
@@ -50,15 +40,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pannagaperumal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pannagaperumal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pannagaperumal&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-
 
 ### 🌐 Connect With Me
 
