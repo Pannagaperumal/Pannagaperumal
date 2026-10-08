@@ -13,7 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Build+Systems+That+Scale;Think+Before+You+Code;Avoid+Tech+Debt;Engineer+With+Purpose;Make+Complex+Systems+Simple" />
 </p>
 
----
 
 ## 🧠 About Me
 
@@ -40,16 +39,8 @@ Backend / Systems Engineer based in Karnataka, India.
 | **Frontend** | Svelte · HTML · CSS |
 | **Tools** | Git · GitHub · Bash |
 
----
 
 ## 📊 Developer Metrics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Pannagaperumal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
-  />
-</p>
 
 <p align="center">
   <img
@@ -57,7 +48,6 @@ Backend / Systems Engineer based in Karnataka, India.
   />
 </p>
 
----
 
 ## 🧰 Tech Arsenal
 
@@ -70,12 +60,6 @@ Backend / Systems Engineer based in Karnataka, India.
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
 </p>
-
----
-<p align="center">
-  <b>Systems × AI × Infrastructure</b>
-</p>
-
 
 ## 🌐 Connect With Me
 
@@ -95,7 +79,7 @@ Backend / Systems Engineer based in Karnataka, India.
 
 </p>
 
----
+
 
 <p align="center">
   <i>"Build systems that are simple enough to understand and robust enough to trust."</i>
